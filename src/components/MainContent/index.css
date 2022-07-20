@@ -1,0 +1,16 @@
+.MainContent {
+  height: calc(100vh -30px);
+ margin: 0 20px;
+  color: lightslategray;
+  display: flex;
+  gap:50px;
+  
+}
+.MainContent__card{
+  padding: 20px;
+  box-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.218);
+}
+
+.MainContent__secondHeader {
+  color: rgb(40, 40, 40);
+}
